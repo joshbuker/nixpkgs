@@ -12902,6 +12902,12 @@
     github = "joshainglis";
     githubId = 1281131;
   };
+  joshbuker = {
+    name = "Josh Buker";
+    email = "nixpkgs@joshbuker.com";
+    github = "joshbuker";
+    githubId = 1802598;
+  };
   joshheinrichs-shopify = {
     name = "Josh Heinrichs";
     email = "josh.heinrichs@shopify.com";
